@@ -1,0 +1,41 @@
+_repo: Superstition-in-Medicine_44744
+_version: 0.1.0
+alternative_title: Aberglauben in der Medizin. English
+contributor:
+  translator:
+    agent_name: Salinger, Julius L. (Julius Lincoln)
+    gutenberg_agent_id: '42898'
+    url: http://www.gutenberg.org/2009/agents/42898
+covers:
+- cover_type: archival
+  image_path: 44744-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Magnus, Hugo
+    alias: Magnus, H. (Hugo)
+    birthdate: 1842
+    deathdate: 1907
+    gutenberg_agent_id: '42897'
+    url: http://www.gutenberg.org/2009/agents/42897
+description: ''
+gutenberg_issued: '2014-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astrology'
+- !lcsh 'Medical misconceptions'
+- !lcsh 'Medicine -- History'
+- !lcc 'R'
+tableOfContents: What is medical superstition? -- Theism in its relation to medicine
+  and in its struggle with the physico-mechanical theory of life -- Religion the support
+  of medical superstition -- The influence of philosophy upon the form and origin
+  of medical superstition -- The relations of natural science to medical superstition
+  -- Influence exerted upon the development of superstition by medicine itself --
+  Medical superstition and insanity.
+title: Superstition in Medicine
+url: http://www.gutenberg.org/ebooks/44744
